@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Baseball Slugger.ipa" source="original">
+    <mtime>1536157202</mtime>
+    <size>20892323</size>
+    <md5>8751f20685d61d977d233e58c6dd3a12</md5>
+    <crc32>c6c3474c</crc32>
+    <sha1>c0d323b6fe6bb96b1eb4877a6bd4c8d23eaea88e</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="BaseballSlugger_archive.torrent" source="metadata">
+    <btih>b77a8441f1d01d302cadf4089680b256261023f4</btih>
+    <mtime>1596421313</mtime>
+    <size>2979</size>
+    <md5>9f5221be52fcf7e39b41203d36c5db6a</md5>
+    <crc32>dee89266</crc32>
+    <sha1>70a4c32c0fe69bb9464b5da40ea7e610bc1e6fdd</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="BaseballSlugger_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>73ca31cd9277a899e9e71865f692f747</md5>
+  </file>
+  <file name="BaseballSlugger_meta.sqlite" source="original">
+    <mtime>1536157230</mtime>
+    <size>20480</size>
+    <md5>fb6fff069627f7a30a275d196f51ea78</md5>
+    <crc32>b4416088</crc32>
+    <sha1>d938f5181a4eb4eb1cc2aa78428a1f6e0da3ef10</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="BaseballSlugger_meta.xml" source="original">
+    <mtime>1596421312</mtime>
+    <size>2466</size>
+    <format>Metadata</format>
+    <md5>74d6171d29faa2301e61e116e4dece01</md5>
+    <crc32>14482e52</crc32>
+    <sha1>f35e2cca3a9227dd34adc625287a5463eec03ada</sha1>
+  </file>
+  <file name="IMG_0285.PNG" source="original">
+    <mtime>1536157227</mtime>
+    <size>1007957</size>
+    <md5>0fbadffb556f222121bfd4ab0b2ac1af</md5>
+    <crc32>06a4387e</crc32>
+    <sha1>e65a8c5c17e0700419f03c301c459792b1f258e7</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="IMG_0285_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>IMG_0285.PNG</original>
+    <mtime>1536157658</mtime>
+    <size>6235</size>
+    <md5>9308e9e01cfb8f175dda3827b4584d85</md5>
+    <crc32>2fc99a09</crc32>
+    <sha1>30dd07ef664fa05f35a311dd6db169e703fc5d4d</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1536157647</mtime>
+    <size>15890</size>
+    <md5>a88f39b16d418be2f9248461156aedd2</md5>
+    <crc32>ac6ffe3d</crc32>
+    <sha1>22a16c57190f3cd6337effc1018676d7143ed0b3</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
